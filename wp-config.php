@@ -16,7 +16,7 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'wp_catalago_isotex_vnzla');
+define('DB_NAME', 'wp_distribuidora_isotex');
 
 /** MySQL database username */
 define('DB_USER', 'UserIsotex');
